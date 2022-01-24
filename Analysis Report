@@ -1,0 +1,5 @@
+#Bitcoin Arbitrage Anaylsis
+
+It is not really a surprise that the two later dates do not provide any profitable opportunities, this can be seen on the first plot showing price history across the exchanges. The best opportunity seen here is near the end of January as volatility increases and traders are caught off guard-- perhaps indicative of mixed sentiments in relation to the direction of the next move.
+
+It is noteworthy, however, that the one day in January allows us to net quite a profit. Pandas allows us to find these opportunities.
